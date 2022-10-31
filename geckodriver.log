@@ -1,0 +1,34 @@
+1667202591793	geckodriver	INFO	Listening on 127.0.0.1:55486
+1667202592313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55487" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xl/s9yfgz110f39yv93z1tqzlg80000gn/T/rust_mozprofileh0XtoP"
+1667202593441	Marionette	INFO	Marionette enabled
+1667202593570	Marionette	INFO	Listening on port 55504
+Read port: 55504
+WebDriver BiDi listening on ws://127.0.0.1:55487
+1667202594347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xl/s9yfgz110f39yv93z1tqzlg80000gn/T/rust_mozprofileh0XtoP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55487/devtools/browser/6a4bd2f3-18d4-40b1-95ec-5d8df7716c92
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1667202714637	geckodriver	INFO	Listening on 127.0.0.1:56235
+1667202715153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56236" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xl/s9yfgz110f39yv93z1tqzlg80000gn/T/rust_mozprofile7CFlNd"
+1667202716324	Marionette	INFO	Marionette enabled
+1667202716366	Marionette	INFO	Listening on port 56251
+Read port: 56251
+WebDriver BiDi listening on ws://127.0.0.1:56236
+1667202716817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xl/s9yfgz110f39yv93z1tqzlg80000gn/T/rust_mozprofile7CFlNd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56236/devtools/browser/2d713617-ea4c-4c3e-927e-17b007e05de6
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1667202738903	geckodriver	INFO	Listening on 127.0.0.1:56411
+1667202738915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56412" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xl/s9yfgz110f39yv93z1tqzlg80000gn/T/rust_mozprofile589uk7"
+1667202740134	Marionette	INFO	Marionette enabled
+1667202740241	Marionette	INFO	Listening on port 56422
+Read port: 56422
+WebDriver BiDi listening on ws://127.0.0.1:56412
+1667202740846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
